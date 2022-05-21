@@ -21,3 +21,6 @@ The film takes place eight years after the events of Batman Begins, when terrori
 
 **🎥 [Watch trailer on YouTube](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;EXeTwQWrcwY)**
 
+---
+
+**🍿 [Explore other movies directed by Christopher Nolan](/)**

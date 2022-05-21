@@ -21,3 +21,6 @@ The story follows Batman as he tries to stop Bane from blowing up Gotham City. I
 
 **🎥 [Watch trailer on YouTube](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;g8evyE9TuYk)**
 
+---
+
+**🍿 [Explore other movies directed by Christopher Nolan](/)**

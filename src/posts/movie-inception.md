@@ -23,3 +23,6 @@ Inception was nominated for eight Academy Awards including Best Picture but did 
 
 **🎥 [Watch trailer on YouTube](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;5EiV_HXIIGs)**
 
+---
+
+**🍿 [Explore other movies directed by Christopher Nolan](/)**

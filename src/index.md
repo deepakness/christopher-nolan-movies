@@ -11,4 +11,4 @@ Christopher Nolan is a director, producer, and screenwriter who has created some
 
 This site is a collection of the movies directed by Christopher Nolan.
 
-[Learn more about Nolan →](/about)
+[Learn more about Nolan](/about) →
