@@ -9,6 +9,11 @@
       "text": "About Nolan",
       "url": "/about",
       "external": false
+    },
+    {
+      "text": "Github",
+      "url": "https://github.com/deepakness/christopher-nolan-movies",
+      "external": true
     }
   ]
 }
