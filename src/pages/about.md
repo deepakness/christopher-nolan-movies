@@ -13,4 +13,17 @@ Nolan was born in London in 1970. His father worked as an advertising executive 
 
 After graduating from college in 1993, Nolan wrote several short films that were nominated for various awards before he was hired as assistant director on two low-budget films: [Following](/posts/movie-following/) (1998) and [Memento](/posts/movie-memento/) (2000). These early successes led him to direct Insomnia (2002) starring Al Pacino and Hillary Swank—which was nominated for Best Director at the Golden Globes.
 
-**🍿 [Learn more about Christopher Nolan's movies](/)**
+## A list of movies directed by Nolan
+
+1. [Dunkirk](/posts/movie-dunkirk/) (2017)
+2. [The Dark Knight](/posts/movie-the-dark-knight/) (2008)
+3. [The Dark Knight Rises](/posts/movie-the-dark-knight-rises/) (2012)
+4. [Following](/posts/movie-following/) (1998)
+5. [Insomnia](/posts/movie-insomnia/) (2002)
+6. [Memento](/posts/movie-memento/) (2000)
+7. [Interstellar](/posts/movie-interstellar/) (2014)
+8. [Batman Begins](/posts/movie-batman-begins/) (2005)
+9. [Inception](/posts/movie-inception/) (2010)
+10. [Tenet](/posts/movie-tenet/) (2020)
+11. Oppenheimer (upcoming 2023)
+
