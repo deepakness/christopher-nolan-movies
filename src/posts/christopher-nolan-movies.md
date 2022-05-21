@@ -6,7 +6,7 @@ tags:
     - blog
 ---
 
-Christopher Nolan, the director of some of the most critically acclaimed films of all time, is known for his mind-bending plots and expert direction. With films like The Batman Trilogy and Inception under his belt, Nolan is one of the most talented directors in Hollywood today.
+[Christopher Nolan](/about/), the director of some of the most critically acclaimed films of all time, is known for his mind-bending plots and expert direction. With films like The Batman Trilogy and Inception under his belt, Nolan is one of the most talented directors in Hollywood today.
 
 His films have been nominated for Academy Awards, Golden Globes, and BAFTAs. He's also known for his fondness for secrecy—he doesn't do interviews or press conferences, so his movies are hard to predict.
 
