@@ -1,5 +1,9 @@
 ---
 title: The Dark Knight Rises [2012] by Christopher Nolan - Movie Summary
+movieTitle: The Dark Knight Rises
+Released: 2012
+Genre: Action/Thriller
+Duration: 2h 45m
 date: 2022-05-20
 tags:
     - movies

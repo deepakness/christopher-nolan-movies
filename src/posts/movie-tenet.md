@@ -1,5 +1,9 @@
 ---
 title: Tenet [2020] by Christopher Nolan - Movie Summary
+movieTitle: Tenet
+Released: 2020
+Genre: Action/Sci-fi
+Duration: 2h 30m
 date: 2022-05-20
 tags:
     - movies

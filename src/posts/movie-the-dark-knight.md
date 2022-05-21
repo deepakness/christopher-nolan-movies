@@ -1,5 +1,9 @@
 ---
 title: The Dark Knight [2008] by Christopher Nolan - Movie Summary
+movieTitle: The Dark Knight
+Released: 2008
+Genre: Action/Adventure
+Duration: 2h 32m
 date: 2022-05-20
 tags:
     - movies

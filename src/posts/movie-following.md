@@ -1,5 +1,9 @@
 ---
 title: Following [1998] by Christopher Nolan - Movie Summary
+movieTitle: Following
+Released: 1998
+Genre: Crime/Thriller
+Duration: 1h 10m
 date: 2022-05-20
 tags:
     - movies

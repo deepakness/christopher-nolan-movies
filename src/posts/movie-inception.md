@@ -1,5 +1,9 @@
 ---
 title: Inception [2010] by Christopher Nolan - Movie Summary
+movieTitle: Inception
+Released: 2010
+Genre: Action/Sci-fi
+Duration: 2h 28m
 date: 2022-05-20
 tags:
     - movies

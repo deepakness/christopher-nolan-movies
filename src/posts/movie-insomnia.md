@@ -1,5 +1,9 @@
 ---
 title: Insomnia [2002] by Christopher Nolan - Movie Summary
+movieTitle: Insomnia
+Released: 2002
+Genre: Thriller/Drama
+Duration: 1h 58m
 date: 2022-05-20
 tags:
     - movies

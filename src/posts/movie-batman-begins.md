@@ -1,5 +1,9 @@
 ---
 title: Batman Begins [2005] by Christopher Nolan - Movie Summary
+movieTitle: Batman Begins
+Released: 2005
+Genre: Action/Fantasy
+Duration: 2h 20m
 date: 2022-05-20
 tags:
     - movies

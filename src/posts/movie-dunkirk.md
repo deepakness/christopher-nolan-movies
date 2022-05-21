@@ -1,5 +1,9 @@
 ---
 title: Dunkirk [2017] by Christopher Nolan - Movie Summary
+movieTitle: Dunkirk
+Released: 2017
+Genre: War/Action
+Duration: 1h 46m
 date: 2022-05-20
 tags:
     - movies

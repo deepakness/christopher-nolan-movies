@@ -1,5 +1,9 @@
 ---
 title: Interstellar [2014] by Christopher Nolan - Movie Summary
+movieTitle: Interstellar
+Released: 2014
+Genre: Sci-fi/Adventure
+Duration: 2h 49m
 date: 2022-05-20
 tags:
     - movies

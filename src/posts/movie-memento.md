@@ -1,5 +1,9 @@
 ---
 title: Memento [2000] by Christopher Nolan - Movie Summary
+movieTitle: Memento
+Released: 2000
+Genre: Mystery/Thriller
+Duration: 1h 53m
 date: 2022-05-20
 tags:
     - movies

@@ -7,11 +7,14 @@
           {% if item.date.getTime() <= global.now %}
             <li class="post-list__item">
               <h3 class="font-base leading-tight text-600 weight-mid">
-                <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
+                <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.movieTitle }}</a>
               </h3>
-              <p class="text-500 gap-top-300 weight-mid">
-                <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
+              <p class="gap-top-300 weight-mid">
+                📅{{item.data.Released}}  🎭{{item.data.Genre}}  ⏳{{item.data.Duration}}
               </p>
+              {# <p class="gap-top-300 weight-mid">
+                <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
+              </p> #}
             </li>
           {% endif %}
         {% endfor %}
