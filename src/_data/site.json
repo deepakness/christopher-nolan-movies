@@ -1,0 +1,13 @@
+{
+  "showThemeCredit": true,
+  "name": "Christopher Nolan Movies",
+  "shortDesc": "A list of Christopher Nolan movies with a short description.",
+  "url": "https://cn-movies.deepakness.com",
+  "authorEmail": "me@deepakness.com",
+  "authorHandle": "@DeepakNesss",
+  "authorName": "DeepakNess",
+  "enableThirdPartyComments": false,
+  "maxPostsPerPage": 10,
+  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
+  "faviconPath": "/images/favicon.png"
+}
