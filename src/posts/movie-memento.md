@@ -6,21 +6,19 @@ tags:
     - blog
 ---
 
-![Memento [2000] by Christopher Nolan - Movie Summary](&#x2F;images&#x2F;movie-momento.jpg)
+![Memento [2000] by Christopher Nolan - Movie Summary](/images/movie-momento.jpg)
 
 - Released: 2000
-- Genre: Mystery&#x2F;Thriller
+- Genre: Mystery/Thriller
 - Duration: 1h 53m
 - Directed by: Christopher Nolan
 
-**🎥 [Watch trailer on YouTube](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;4CV41hoyS8A)**
-
 ## Memento - Movie Summary
 
-If you&#39;ve ever had one of those moments where you can&#39;t remember if you&#39;ve done something before, or if you&#39;re just having a really bad day, then this movie is for you.
+If you've ever had one of those moments where you can't remember if you've done something before, or if you're just having a really bad day, then this movie is for you.
 
 In Momento, a man suffering from short-term memory loss struggles to put together the pieces of his past, as well as find out who he really is.
 
----
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4CV41hoyS8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**🍿 [Explore other movies directed by Christopher Nolan](/)**
+🍿 [Explore other movies directed by Christopher Nolan](/)
