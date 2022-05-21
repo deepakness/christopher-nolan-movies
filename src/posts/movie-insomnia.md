@@ -4,18 +4,19 @@ movieTitle: Insomnia
 Released: 2002
 Genre: Thriller/Drama
 Duration: 1h 58m
+IMDb: 7.2
 date: 2022-05-20
 tags:
     - movies
-    - blog
 ---
 
 ![Insomnia [2002] by Christopher Nolan - Movie Summary](/images/movie-insomnia.jpg)
 
-- Released: 2002
-- Genre: Thriller/Drama
-- Duration: 1h 58m
-- Directed by: Christopher Nolan
+- **IMDb:** 7.2/10
+- **Released:** 2002
+- **Genre:** Thriller/Drama
+- **Duration:** 1h 58m
+- **Directed by:** Christopher Nolan
 
 ## Insomnia - Movie Summary
 
@@ -29,4 +30,4 @@ When the detectives arrive in Alaska, they find it difficult to adjust to the lo
 
 ---
 
-🍿 [Explore other movies directed by Christopher Nolan](/)
+[🍿 Explore other movies directed by Christopher Nolan](/)

@@ -4,18 +4,19 @@ movieTitle: The Dark Knight
 Released: 2008
 Genre: Action/Adventure
 Duration: 2h 32m
+IMDb: 9
 date: 2022-05-20
 tags:
     - movies
-    - blog
 ---
 
 ![The Dark Knight [2008] by Christopher Nolan - Movie Summary](/images/movie-the-dark-knight.jpg)
 
-- Released: 2008
-- Genre: Action/Adventure
-- Duration: 2h 32m
-- Directed by: Christopher Nolan
+- **IMDb:** 9/10
+- **Released:** 2008
+- **Genre:** Action/Adventure
+- **Duration:** 2h 32m
+- **Directed by:** Christopher Nolan
 
 ## The Dark Knight - Movie Summary
 
@@ -29,4 +30,4 @@ The film takes place eight years after the events of Batman Begins, when terrori
 
 ---
 
-🍿 [Explore other movies directed by Christopher Nolan](/)
+[🍿 Explore other movies directed by Christopher Nolan](/)

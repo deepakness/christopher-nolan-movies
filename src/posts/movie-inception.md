@@ -4,18 +4,19 @@ movieTitle: Inception
 Released: 2010
 Genre: Action/Sci-fi
 Duration: 2h 28m
+IMDb: 8.8
 date: 2022-05-20
 tags:
     - movies
-    - blog
 ---
 
 ![Inception [2010] by Christopher Nolan - Movie Summary](/images/movie-inception.jpg)
 
-- Released: 2010
-- Genre: Action/Sci-fi
-- Duration: 2h 28m
-- Directed by: Christopher Nolan
+- **IMDb:** 8.8/10
+- **Released:** 2010
+- **Genre:** Action/Sci-fi
+- **Duration:** 2h 28m
+- **Directed by:** Christopher Nolan
 
 ## Inception - Movie Summary
 
@@ -31,4 +32,4 @@ Inception was nominated for eight Academy Awards including Best Picture but did 
 
 ---
 
-🍿 [Explore other movies directed by Christopher Nolan](/)
+[🍿 Explore other movies directed by Christopher Nolan](/)

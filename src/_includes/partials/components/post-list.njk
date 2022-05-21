@@ -10,11 +10,8 @@
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.movieTitle }}</a>
               </h3>
               <p class="gap-top-300 weight-mid">
-                📅{{item.data.Released}}  🎭{{item.data.Genre}}  ⏳{{item.data.Duration}}
+                🍿IMDb: {{item.data.IMDb}} <br> 📅{{item.data.Released}} <br> 🎭{{item.data.Genre}} <br> ⏳{{item.data.Duration}} <br><br>
               </p>
-              {# <p class="gap-top-300 weight-mid">
-                <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
-              </p> #}
             </li>
           {% endif %}
         {% endfor %}

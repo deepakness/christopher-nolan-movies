@@ -4,18 +4,19 @@ movieTitle: Dunkirk
 Released: 2017
 Genre: War/Action
 Duration: 1h 46m
+IMDb: 7.8
 date: 2022-05-20
 tags:
     - movies
-    - blog
 ---
 
 ![Dunkirk [2017] by Christopher Nolan - Movie Summary](/images/movie-dunkirk.jpg)
 
-- Released: 2017
-- Genre: War/Action
-- Duration: 1h 46m
-- Directed by: Christopher Nolan
+- **IMDb:** 7.8/10
+- **Released:** 2017
+- **Genre:** War/Action
+- **Duration:** 1h 46m
+- **Directed by:** Christopher Nolan
 
 ## Dunkirk - Movie Summary
 
@@ -31,4 +32,4 @@ The film was shot on location in Dunkirk, France, and at Shepperton Studios in S
 
 ---
 
-🍿 [Explore other movies directed by Christopher Nolan](/)
+[🍿 Explore other movies directed by Christopher Nolan](/)

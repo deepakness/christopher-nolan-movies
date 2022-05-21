@@ -4,18 +4,19 @@ movieTitle: Following
 Released: 1998
 Genre: Crime/Thriller
 Duration: 1h 10m
+IMDb: 7.5
 date: 2022-05-20
 tags:
     - movies
-    - blog
 ---
 
 ![Following [1998] by Christopher Nolan - Movie Summary](/images/movie-following.jpg)
 
-- Released: 1998
-- Genre: Crime/Thriller
-- Duration: 1h 10m
-- Directed by: Christopher Nolan
+- **IMDb:** 7.5/10
+- **Released:** 1998
+- **Genre:** Crime/Thriller
+- **Duration:** 1h 10m
+- **Directed by:** Christopher Nolan
 
 ## Following - Movie Summary
 
@@ -31,4 +32,4 @@ Following received mostly positive reviews from critics. Roger Ebert praised it 
 
 ---
 
-🍿 [Explore other movies directed by Christopher Nolan](/)
+[🍿 Explore other movies directed by Christopher Nolan](/)

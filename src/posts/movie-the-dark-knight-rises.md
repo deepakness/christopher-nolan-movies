@@ -4,18 +4,19 @@ movieTitle: The Dark Knight Rises
 Released: 2012
 Genre: Action/Thriller
 Duration: 2h 45m
+IMDb: 8.4
 date: 2022-05-20
 tags:
     - movies
-    - blog
 ---
 
 ![The Dark Knight Rises [2012] by Christopher Nolan - Movie Summary](/images/movie-the-dark-knight-rises.jpg)
 
-- Released: 2012
-- Genre: Action/Thriller
-- Duration: 2h 45m
-- Directed by: Christopher Nolan
+- **IMDb:** 8.4/10
+- **Released:** 2012
+- **Genre:** Action/Thriller
+- **Duration:** 2h 45m
+- **Directed by:** Christopher Nolan
 
 ## The Dark Knight Rises - Movie Summary
 
@@ -29,4 +30,4 @@ The story follows Batman as he tries to stop Bane from blowing up Gotham City. I
 
 ---
 
-🍿 [Explore other movies directed by Christopher Nolan](/)
+[🍿 Explore other movies directed by Christopher Nolan](/)

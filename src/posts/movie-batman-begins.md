@@ -4,18 +4,19 @@ movieTitle: Batman Begins
 Released: 2005
 Genre: Action/Fantasy
 Duration: 2h 20m
+IMDb: 8.2
 date: 2022-05-20
 tags:
     - movies
-    - blog
 ---
 
 ![Batman Begins [2005] by Christopher Nolan - Movie Summary](/images/movie-batman-begins.jpg)
 
-- Released: 2005
-- Genre: Action/Fantasy
-- Duration: 2h 20m
-- Directed by: Christopher Nolan
+- **IMDb:** 8.2/10
+- **Released:** 2005
+- **Genre:** Action/Fantasy
+- **Duration:** 2h 20m
+- **Directed by:** Christopher Nolan
 
 ## Batman Begins - Movie Summary
 
@@ -29,4 +30,4 @@ Christian Bale stars as Bruce Wayne, a billionaire who has dedicated his life to
 
 ---
 
-🍿 [Explore other movies directed by Christopher Nolan](/)
+[🍿 Explore other movies directed by Christopher Nolan](/)

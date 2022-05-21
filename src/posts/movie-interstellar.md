@@ -4,18 +4,19 @@ movieTitle: Interstellar
 Released: 2014
 Genre: Sci-fi/Adventure
 Duration: 2h 49m
+IMDb: 8.6
 date: 2022-05-20
 tags:
     - movies
-    - blog
 ---
 
 ![Interstellar [2014] by Christopher Nolan - Movie Summary](/images/movie-interstellar.jpg)
 
-- Released: 2014
-- Genre: Sci-fi/Adventure
-- Duration: 2h 49m
-- Directed by: Christopher Nolan
+- **IMDb:** 8.6/10
+- **Released:** 2014
+- **Genre:** Sci-fi/Adventure
+- **Duration:** 2h 49m
+- **Directed by:** Christopher Nolan
 
 ## Interstellar - Movie Summary
 
@@ -31,4 +32,4 @@ The crew eventually arrives at the planet Miller's Planet, where they confront o
 
 ---
 
-🍿 [Explore other movies directed by Christopher Nolan](/)
+[🍿 Explore other movies directed by Christopher Nolan](/)

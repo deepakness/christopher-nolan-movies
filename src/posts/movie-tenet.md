@@ -4,18 +4,19 @@ movieTitle: Tenet
 Released: 2020
 Genre: Action/Sci-fi
 Duration: 2h 30m
+IMDb: 7.3
 date: 2022-05-20
 tags:
     - movies
-    - blog
 ---
 
 ![Tenet [2020] by Christopher Nolan - Movie Summary](/images/movie-tenet.jpg)
 
-- Released: 2020
-- Genre: Action/Sci-fi
-- Duration: 2h 30m
-- Directed by: Christopher Nolan
+- **IMDb:** 7.3/10
+- **Released:** 2020
+- **Genre:** Action/Sci-fi
+- **Duration:** 2h 30m
+- **Directed by:** Christopher Nolan
 
 ## Tenet - Movie Summary
 
@@ -29,4 +30,4 @@ Tenet is a futuristic story of how few objects fall into the wrong hands and cou
 
 ---
 
-🍿 [Explore other movies directed by Christopher Nolan](/)
+[🍿 Explore other movies directed by Christopher Nolan](/)

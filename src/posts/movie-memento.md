@@ -4,18 +4,19 @@ movieTitle: Memento
 Released: 2000
 Genre: Mystery/Thriller
 Duration: 1h 53m
+IMDb: 8.4
 date: 2022-05-20
 tags:
     - movies
-    - blog
 ---
 
 ![Memento [2000] by Christopher Nolan - Movie Summary](/images/movie-momento.jpg)
 
-- Released: 2000
-- Genre: Mystery/Thriller
-- Duration: 1h 53m
-- Directed by: Christopher Nolan
+- **IMDb:** 8.4/10
+- **Released:** 2000
+- **Genre:** Mystery/Thriller
+- **Duration:** 1h 53m
+- **Directed by:** Christopher Nolan
 
 ## Memento - Movie Summary
 
@@ -29,4 +30,4 @@ In Momento, a man suffering from short-term memory loss struggles to put togethe
 
 ---
 
-🍿 [Explore other movies directed by Christopher Nolan](/)
+[🍿 Explore other movies directed by Christopher Nolan](/)
