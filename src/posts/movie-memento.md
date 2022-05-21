@@ -19,6 +19,10 @@ If you've ever had one of those moments where you can't remember if you've done 
 
 In Momento, a man suffering from short-term memory loss struggles to put together the pieces of his past, as well as find out who he really is.
 
+## Watch the Movie's Trailer
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4CV41hoyS8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 🍿 [Explore other movies directed by Christopher Nolan](/)

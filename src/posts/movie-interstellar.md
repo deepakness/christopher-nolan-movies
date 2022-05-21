@@ -21,6 +21,10 @@ The film's plot revolves around a group of astronauts from Earth who travel thro
 
 The crew eventually arrives at the planet Miller's Planet, where they confront obstacles such as dust storms and freezing temperatures before making their way back home to Earth.
 
+## Watch the Movie's Trailer
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zSWdZVtXT7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 🍿 [Explore other movies directed by Christopher Nolan](/)

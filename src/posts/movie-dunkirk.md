@@ -21,6 +21,10 @@ It stars Fionn Whitehead, Tom Glynn-Carney, Jack Lowden, Harry Styles, Aneurin B
 
 The film was shot on location in Dunkirk, France, and at Shepperton Studios in Surrey. It has been selected to be shown in the 70 mm format at cinemas in Europe.
 
+## Watch the Movie's Trailer
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F-eMt3SrfFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 🍿 [Explore other movies directed by Christopher Nolan](/)

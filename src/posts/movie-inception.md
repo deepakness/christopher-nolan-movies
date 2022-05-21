@@ -21,6 +21,10 @@ The film stars Leonardo DiCaprio as Cobb, a professional thief who commits corpo
 
 Inception was nominated for eight Academy Awards including Best Picture but did not win any Oscars at the 83rd Academy Awards ceremony held on February 27th, 2011.
 
+## Watch the Movie's Trailer
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5EiV_HXIIGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 🍿 [Explore other movies directed by Christopher Nolan](/)

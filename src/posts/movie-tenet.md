@@ -19,6 +19,10 @@ Tenet is a 2020 action/sci-fi movie which is directed by Christopher Nolan. The 
 
 Tenet is a futuristic story of how few objects fall into the wrong hands and could be manipulated and used as weapons in the coming future. The CIA operative known as the Protagonist must save the world by stopping Andrei Sator from getting a hand on those objects.
 
+## Watch the Movie's Trailer
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LdOM0x0XDMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 🍿 [Explore other movies directed by Christopher Nolan](/)

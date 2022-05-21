@@ -19,6 +19,10 @@ The Dark Knight Rises is a 2012 superhero film directed by Christopher Nolan and
 
 The story follows Batman as he tries to stop Bane from blowing up Gotham City. In this film, Batman has retired and become a recluse after being blamed for Harvey Dent's death at the end of The Dark Knight. He is forced out of retirement when Bane comes back into his life, but it's not long before Batman starts looking for revenge on Bane for killing his childhood friend Rachel Dawes (played by Maggie Gyllenhaal).
 
+## Watch the Movie's Trailer
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g8evyE9TuYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 🍿 [Explore other movies directed by Christopher Nolan](/)

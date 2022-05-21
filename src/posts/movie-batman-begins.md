@@ -19,6 +19,10 @@ Batman Begins is a 2005 superhero film directed by Christopher Nolan and written
 
 Christian Bale stars as Bruce Wayne, a billionaire who has dedicated his life to fighting crime and corruption in Gotham City. When his parents are murdered during a mugging gone wrong, he vows to exact revenge on the city's criminal element by taking on the guise of Batman. With the help of Lucius Fox (Morgan Freeman), he develops a high-tech suit that gives him superhuman strength and agility, allowing him to patrol the streets at night and bring justice to those who would prey on innocent citizens.
 
+## Watch the Movie's Trailer
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QhPqez3CwiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 🍿 [Explore other movies directed by Christopher Nolan](/)
