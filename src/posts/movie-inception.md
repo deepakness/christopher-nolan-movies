@@ -5,6 +5,7 @@ Released: 2010
 Genre: Action/Sci-fi
 Duration: 2h 28m
 IMDb: 8.8
+Poster: /images/movie-inception.jpg
 date: 2022-05-20
 tags:
     - movies

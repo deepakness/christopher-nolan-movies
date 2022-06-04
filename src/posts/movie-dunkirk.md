@@ -5,6 +5,7 @@ Released: 2017
 Genre: War/Action
 Duration: 1h 46m
 IMDb: 7.8
+Poster: /images/movie-dunkirk.jpg
 date: 2022-05-20
 tags:
     - movies

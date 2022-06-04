@@ -5,6 +5,7 @@ Released: 2000
 Genre: Mystery/Thriller
 Duration: 1h 53m
 IMDb: 8.4
+Poster: /images/movie-momento.jpg
 date: 2022-05-20
 tags:
     - movies

@@ -6,11 +6,14 @@
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
             <li class="post-list__item">
-              <h3 class="font-base leading-tight text-600 weight-mid">
+              
+     <a href="{{ item.url }}"><img class="fit-picture" src="{{ item.data.Poster }}"
+     alt="Nolan" width="500" style="border-radius: 12px;"></a>
+              <h3 class="font-base leading-tight text-600 weight-mid gap-top-500">
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.movieTitle }}</a>
               </h3>
-              <p class="gap-top-300 weight-mid">
-                🍿 IMDb: {{item.data.IMDb}} <br> 📅 {{item.data.Released}} <br> 🎭 {{item.data.Genre}} <br> ⏳ {{item.data.Duration}} <br><br>
+              <p class="gap-top-300 weight-mid text-500">
+                🍿 IMDb: {{item.data.IMDb}} 📅 {{item.data.Released}} 🎭 {{item.data.Genre}} ⏳ {{item.data.Duration}} <br><br>
               </p>
             </li>
           {% endif %}

@@ -5,6 +5,7 @@ Released: 1998
 Genre: Crime/Thriller
 Duration: 1h 10m
 IMDb: 7.5
+Poster: /images/movie-following.jpg
 date: 2022-05-20
 tags:
     - movies

@@ -5,6 +5,7 @@ Released: 2020
 Genre: Action/Sci-fi
 Duration: 2h 30m
 IMDb: 7.3
+Poster: /images/movie-tenet.jpg
 date: 2022-05-20
 tags:
     - movies

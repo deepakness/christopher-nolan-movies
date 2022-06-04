@@ -5,6 +5,7 @@ Released: 2002
 Genre: Thriller/Drama
 Duration: 1h 58m
 IMDb: 7.2
+Poster: /images/movie-insomnia.jpg
 date: 2022-05-20
 tags:
     - movies

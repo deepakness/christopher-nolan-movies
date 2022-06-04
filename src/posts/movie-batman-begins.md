@@ -5,6 +5,7 @@ Released: 2005
 Genre: Action/Fantasy
 Duration: 2h 20m
 IMDb: 8.2
+Poster: /images/movie-batman-begins.jpg
 date: 2022-05-20
 tags:
     - movies

@@ -5,6 +5,7 @@ Released: 2012
 Genre: Action/Thriller
 Duration: 2h 45m
 IMDb: 8.4
+Poster: /images/movie-the-dark-knight-rises.jpg
 date: 2022-05-20
 tags:
     - movies

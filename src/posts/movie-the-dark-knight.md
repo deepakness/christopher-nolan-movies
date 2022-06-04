@@ -5,6 +5,7 @@ Released: 2008
 Genre: Action/Adventure
 Duration: 2h 32m
 IMDb: 9
+Poster: /images/movie-the-dark-knight.jpg
 date: 2022-05-20
 tags:
     - movies

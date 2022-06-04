@@ -5,6 +5,7 @@ Released: 2014
 Genre: Sci-fi/Adventure
 Duration: 2h 49m
 IMDb: 8.6
+Poster: /images/movie-interstellar.jpg
 date: 2022-05-20
 tags:
     - movies
