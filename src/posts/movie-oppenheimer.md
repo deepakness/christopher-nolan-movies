@@ -11,7 +11,7 @@ tags:
     - movies
 ---
 
-![Oppenheimer [2005] by Christopher Nolan - Movie Summary](/images/movie-batman-begins.jpg)
+![Oppenheimer [2005] by Christopher Nolan - Movie Summary](/images/movie-oppenheimer.jpg)
 
 - **IMDb:** NA
 - **Released:** 2023
