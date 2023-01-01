@@ -25,5 +25,5 @@ After graduating from college in 1993, Nolan wrote several short films that were
 8. [Batman Begins](/posts/movie-batman-begins/) (2005)
 9. [Inception](/posts/movie-inception/) (2010)
 10. [Tenet](/posts/movie-tenet/) (2020)
-11. Oppenheimer (upcoming 2023)
+11. [Oppenheimer](/src/posts/movie-oppenheimer/) (upcoming 2023)
 
