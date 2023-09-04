@@ -11,7 +11,7 @@ tags:
     - movies
 ---
 
-![Prestige [2006] by Christopher Nolan - Movie Summary](/images/movie-Prestige.jpg)
+![Prestige [2006] by Christopher Nolan - Movie Summary](/images/movie-prestige.jpg)
 
 - **IMDb:** 8.5/10
 - **Released:** 2006
