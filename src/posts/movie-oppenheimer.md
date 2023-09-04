@@ -3,8 +3,8 @@ title: Oppenheimer [2023] by Christopher Nolan - Movie Summary
 movieTitle: Oppenheimer
 Released: 2023
 Genre: Biography/Drama/History
-Duration: NA
-IMDb: NA
+Duration: 3h 0m
+IMDb: 8.6
 Poster: /images/movie-oppenheimer.jpg
 date: 2023-01-01
 tags:
@@ -13,17 +13,17 @@ tags:
 
 ![Oppenheimer [2005] by Christopher Nolan - Movie Summary](/images/movie-oppenheimer.jpg)
 
-- **IMDb:** NA
+- **IMDb:** 8.6
 - **Released:** 2023
 - **Genre:** Biography/Drama/History
-- **Duration:** NA
+- **Duration:** 3h 0m
 - **Directed by:** Christopher Nolan
 
 ## Oppenheimer - Movie Summary
 
-Oppenheimer is an upcoming biographical film written and directed by Christopher Nolan and starring Cillian Murphy as J. Robert Oppenheimer, the American theoretical physicist credited with being the "father of the atomic bomb" for his role in the Manhattan Project—the World War II undertaking that developed the first nuclear weapons. A co-production between the United Kingdom and the United States, the film is based on American Prometheus, a biography written by Kai Bird and Martin J. Sherwin. Emily Blunt, Robert Downey Jr., Matt Damon, Rami Malek, Florence Pugh, Benny Safdie, Michael Angarano, Josh Hartnett, and Kenneth Branagh also star in the supporting cast.
+"Oppenheimer" is a 2023 epic biographical thriller directed and written by Christopher Nolan, based on the 2005 biography "American Prometheus" by Kai Bird and Martin J. Sherwin. The film charts the compelling life journey of American theoretical physicist J. Robert Oppenheimer, portrayed by Cillian Murphy, predominantly focusing on his pivotal role in the Manhattan Project during WWII and his subsequent downfall following the 1954 security hearing. The film's star-studded cast includes Emily Blunt as Oppenheimer's wife, Matt Damon as Manhattan Project lead Leslie Groves, and Robert Downey Jr. as Lewis Strauss, a member of the US Atomic Energy Commission, among others, creating a rich tapestry of characters that shape Oppenheimer's life and career.
 
-It is a co-production between Universal Pictures, Syncopy Inc. and Atlas Entertainment, with Nolan producing the film alongside Emma Thomas and Charles Roven.
+The film traces Oppenheimer's trajectory from his anxiety-ridden doctoral years in Cambridge in 1926, through his burgeoning teaching career in the US and tumultuous personal life, to his recruitment by U.S. Army General Leslie Groves (played by Matt Damon) in 1942 to spearhead the Manhattan Project amid the pressures of WWII. After clearing doubts about any communist sympathies, Oppenheimer leads the endeavor to develop an atomic bomb, catalyzed by Nazi Germany's advancements in nuclear fission research. As an innovative addition to Nolan’s oeuvre, "Oppenheimer" is presented in black-and-white IMAX film photography for the first time, using a plethora of practical effects and minimal digital manipulation. The film went on to become a global success, grossing over $853 million and achieving acclaim for the performances, screenplay, and visual elements.
 
 ## Watch the Movie's Trailer
 
